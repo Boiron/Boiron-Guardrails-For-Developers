@@ -6,4 +6,4 @@ This is the comprehensive list of dos and don'ts for developing websites
 3. Updates Plugins Independently!
 4. Use Development Environments for Testing New Features!
 5. Utilize a Request/Approval Process (QA!)!
-
+6. Power in numbers!
